@@ -38,7 +38,7 @@ dependencies {
 }
 ```
 ```xml
-<!-- file: android/src/main/AndroidManifest.xml -->
+<!-- file: android/app/src/main/AndroidManifest.xml -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.myApp">
 
